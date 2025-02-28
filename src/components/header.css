@@ -1,0 +1,11 @@
+#root{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.bg-body-tertiary{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: rgb(222 239 255) !important;
+}

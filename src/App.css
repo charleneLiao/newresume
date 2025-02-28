@@ -1,0 +1,25 @@
+body{
+  place-items: initial;
+  background-color: #768fa6;
+}
+.container{
+  max-width: 1000px;
+  .row{
+    padding-top: 80px;
+    background-color: #fff;
+  }
+}
+.midWrap{
+
+.imgAvatar{
+  margin: 0 auto 20px auto;
+  display: block;
+}
+}
+.list-group-item {
+  padding: 10px 0px 10px 0;
+img{
+  width: 20px;
+  margin-right: 5px;
+}
+}
